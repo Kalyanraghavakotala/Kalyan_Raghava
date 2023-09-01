@@ -19,5 +19,5 @@
 -[Text To Speech](https://github.com/Kalyanraghavakotala/KalyanRaghava_TextToSpeech.github.io)
 
 ### Viewer Count
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Kalyanraghavakotala}/count.svg)
 
